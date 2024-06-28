@@ -1,0 +1,5 @@
+- the quiz score affects the final grade, let's say, so it does matter; to be clear, several 26/27 last year, but the questions varied between ITIL3 and ITIL4--it didn't allow for revision since it recycles them into a pool of 80 for everyone and they vary among people. Either way, it tells you to stay logged in to Eduroam, then stop by often to see
+
+- it is done only on PC via Moodle even though it wrote (use pencil to mark results on paper) among the instructions, but it was not so
+
+- very tricky questions, which are pretty hard even doing a lot of exams and quizzes of ITIL
